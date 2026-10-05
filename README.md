@@ -1,2 +1,2 @@
-Please note that I have intentionally left out the scripts which pull in data from UN Comtrade and the BEA. The codes shared here show how to clean the data and visualize or regress once you have the data
+Please note that I have intentionally left out the scripts which pull in data from Haver Analytics and clean it. The DFM nowcast model codes, along scripts for creating the figures and tables in our paper, are shared here. MATLAB scripts are saved as .docx files, for those who don't have access to MATLAB and want to copy the codes and apply them in a free program like Julia or Octave (essentially the free-version of MATLAB). 
 
