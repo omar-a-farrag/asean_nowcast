@@ -1,0 +1,13 @@
+# Ignore everything in the project root
+*
+
+# Un-ignore the code folder and this .gitignore file
+!code/
+!.gitignore
+
+# Ignore cache, history, and temporary files inside the code folder
+__pycache__/
+*.Rhistory
+*.RData
+*.asv
+*.log
